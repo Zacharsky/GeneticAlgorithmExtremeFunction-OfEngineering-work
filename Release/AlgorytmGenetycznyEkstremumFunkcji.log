@@ -1,0 +1,30 @@
+﻿Build started 2016-02-28 14:37:27.
+     1>Project "C:\Users\Jacek\Documents\Visual Studio 2010\Projects\AlgorytmGenetycznyEkstremumFunkcji\AlgorytmGenetycznyEkstremumFunkcji\AlgorytmGenetycznyEkstremumFunkcji.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\AlgorytmGenetycznyEkstremumFunkcji.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\AlgorytmGenetycznyEkstremumFunkcji.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt AlgorytmGenetycznyEkstremumFunkcji.cpp /clr:nostdlib 
+         AlgorytmGenetycznyEkstremumFunkcji.cpp
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jacek\Documents\Visual Studio 2010\Projects\AlgorytmGenetycznyEkstremumFunkcji\Release\AlgorytmGenetycznyEkstremumFunkcji.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\AlgorytmGenetycznyEkstremumFunkcji.Form1.resources /MANIFEST /ManifestFile:"Release\AlgorytmGenetycznyEkstremumFunkcji.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Jacek\Documents\Visual Studio 2010\Projects\AlgorytmGenetycznyEkstremumFunkcji\Release\AlgorytmGenetycznyEkstremumFunkcji.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Release\AlgorytmGenetycznyEkstremumFunkcji.obj
+         Release\AssemblyInfo.obj
+         Release\expression_parser.obj
+         Release\stdafx.obj
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         AlgorytmGenetycznyEkstremumFunkcji.vcxproj -> C:\Users\Jacek\Documents\Visual Studio 2010\Projects\AlgorytmGenetycznyEkstremumFunkcji\Release\AlgorytmGenetycznyEkstremumFunkcji.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Jacek\Documents\Visual Studio 2010\Projects\AlgorytmGenetycznyEkstremumFunkcji\Release\AlgorytmGenetycznyEkstremumFunkcji.exe;#1" /manifest Release\AlgorytmGenetycznyEkstremumFunkcji.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\AlgorytmGenetycznyEkstremumFunkcji.unsuccessfulbuild".
+         Touching "Release\AlgorytmGenetycznyEkstremumFunkcji.lastbuildstate".
+     1>Done Building Project "C:\Users\Jacek\Documents\Visual Studio 2010\Projects\AlgorytmGenetycznyEkstremumFunkcji\AlgorytmGenetycznyEkstremumFunkcji\AlgorytmGenetycznyEkstremumFunkcji.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.39
